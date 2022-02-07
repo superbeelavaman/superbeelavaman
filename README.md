@@ -1,7 +1,7 @@
-👋 Hi, I’m @superbeelavaman  
+👋 Hi, I’m Superbeelavaman
 👀 I’m interested in Programming  
-🌱 I’m currently learning how to make good Minecraft mods with MCreator  
-💞️ I’m looking to collaborate on [null]  
+🌱 I’m currently learning C and eZ80 assembly
+💞️ I’m looking to collaborate on nothing
 📫 How to reach me email me at MWOHkiller@gmail.com  
 
 <!---
