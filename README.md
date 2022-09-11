@@ -1,7 +1,7 @@
 👋 Hi, I’m Superbeelavaman  
 👀 I’m interested in Programming  
 🌱 I’m currently learning C and eZ80 assembly  
-💞️ I’m looking to collaborate on nothing  
+💞️ I’m not looking to collaborate on anything at the moment
 📫 How to reach me email me at MWOHkiller@gmail.com  
 
 <!---
