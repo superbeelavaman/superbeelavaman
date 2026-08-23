@@ -1,9 +1,5 @@
-👋 Hi, I’m Superbeelavaman  
-👀 I’m interested in Programming  
-🌱 I’m currently learning C  
-📫 How to reach me: email me at loganlee.jk@outlook.com
-
-<!---
-superbeelavaman/superbeelavaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Migrated off GH  
+Do not expect to any activity on this account.  
+Find me at:  
+- https://git.noroutes.net/SuperbeeLavaman
+- https://superbeelavaman.onthewifi.com/?p=/
